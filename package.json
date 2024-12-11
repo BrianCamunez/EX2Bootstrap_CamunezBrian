@@ -1,0 +1,17 @@
+{
+  "name": "ex2bootstrap_camunezbrian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "vite": "^6.0.3"
+  }
+}
