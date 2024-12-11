@@ -21,3 +21,26 @@
     }
 
 }
+.headerFoto{
+
+    @media(min-width: 0px){
+        max-height: 327px;
+        width: 100%;
+    }
+
+    @media(min-width: 576px){
+        max-height: 400px;
+        width: 100%;
+    }
+
+    @media(min-width: 768px){
+        max-height: 376px;
+        width: 100%;
+    }
+
+    @media(min-width: 992px){
+        max-height: 800px;
+        width: 100%;
+    }
+
+}
